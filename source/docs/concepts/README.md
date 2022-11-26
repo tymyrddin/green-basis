@@ -12,6 +12,7 @@ Good security principles implementation requires a balancing act.
 ## How?
 
 * [CIA](cia.md)
+* [Parkerian Hexad](parker.md)
 * [DAD](dad.md)
-* [MISP](parker.md)
+
 
