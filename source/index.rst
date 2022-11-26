@@ -1,9 +1,6 @@
 Security principles
 ===============================================
 
-.. image:: _static/images/in-progress.png
-  :alt: In progress
-
 The headology of security. Like a chicken flying over the soup.
 
 .. toctree::
