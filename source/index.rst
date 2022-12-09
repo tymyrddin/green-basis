@@ -38,4 +38,4 @@ The headology of security. Like a chicken flying over the soup.
 .. toctree::
    :caption: Links
 
-   Green Team <https://tymyrddin.github.io/green/>
+   Green Team <https://green.tymyrddin.dev/>
