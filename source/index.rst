@@ -1,7 +1,7 @@
 Security principles
 ===============================================
 
-The headology of security. Like a chicken flying over the soup.
+The headology of security. Like a chicken flying over the soup, with legs pulled up as high as possible.
 
 ----
 
