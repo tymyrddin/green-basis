@@ -3,6 +3,8 @@ Security principles
 
 The headology of security. Like a chicken flying over the soup.
 
+----
+
 .. toctree::
    :maxdepth: 1
    :includehidden:
@@ -34,8 +36,3 @@ The headology of security. Like a chicken flying over the soup.
    docs/notions/zero.md
    docs/notions/verify.md
    docs/notions/risk.md
-
-.. toctree::
-   :caption: Links
-
-   Green Team <https://green.tymyrddin.dev/>
